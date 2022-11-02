@@ -1,0 +1,628 @@
+Player,Team,Position,Points,Cost
+Alisson,Liverpool,Goalkeeper,20,£5.50
+Ederson,Man City,Goalkeeper,23,£5.50
+Lloris,Spurs,Goalkeeper,25,£5.50
+Pope,Newcastle,Goalkeeper,36,£5.10
+Schmeichel,Leicester,Goalkeeper,0,£5.00
+Fabianski,West Ham,Goalkeeper,18,£5.00
+Sá,Wolves,Goalkeeper,35,£5.00
+Ramsdale,Arsenal,Goalkeeper,19,£4.90
+Martínez,Aston Villa,Goalkeeper,22,£4.90
+Mendy,Chelsea,Goalkeeper,17,£4.90
+De Gea,Man Utd,Goalkeeper,21,£4.90
+Sánchez,Brighton,Goalkeeper,28,£4.70
+Henderson,Nott'm Forest,Goalkeeper,31,£4.70
+Leno,Fulham,Goalkeeper,10,£4.50
+Travers,Bournemouth,Goalkeeper,8,£4.50
+Raya,Brentford,Goalkeeper,23,£4.50
+Guaita,Crystal Palace,Goalkeeper,15,£4.50
+Pickford,Everton,Goalkeeper,25,£4.50
+Meslier,Leeds,Goalkeeper,17,£4.50
+Samba,Nott'm Forest,Goalkeeper,0,£4.50
+Bazunu,Southampton,Goalkeeper,13,£4.50
+Neto,Bournemouth,Goalkeeper,6,£4.50
+Arrizabalaga,Chelsea,Goalkeeper,0,£4.40
+Butland,Crystal Palace,Goalkeeper,0,£4.40
+Johnstone,Crystal Palace,Goalkeeper,0,£4.40
+Rodák,Fulham,Goalkeeper,7,£4.40
+McCarthy,Southampton,Goalkeeper,0,£4.40
+Areola,West Ham,Goalkeeper,1,£4.40
+Strakosha,Brentford,Goalkeeper,0,£4.40
+Dubravka,Man Utd,Goalkeeper,0,£4.30
+Olsen,Aston Villa,Goalkeeper,0,£4.00
+Dennis,Bournemouth,Goalkeeper,0,£4.00
+Balcombe,Brentford,Goalkeeper,0,£4.00
+Steele,Brighton,Goalkeeper,0,£4.00
+Begovi?,Everton,Goalkeeper,0,£4.00
+Gazzaniga,Fulham,Goalkeeper,0,£4.00
+Klaesson,Leeds,Goalkeeper,0,£4.00
+Ward,Leicester,Goalkeeper,8,£4.00
+Kelleher,Liverpool,Goalkeeper,0,£4.00
+Steffen,Man City,Goalkeeper,0,£4.00
+Heaton,Man Utd,Goalkeeper,0,£4.00
+Darlow,Newcastle,Goalkeeper,0,£4.00
+Lis,Southampton,Goalkeeper,0,£4.00
+Caballero,Southampton,Goalkeeper,0,£4.00
+Forster,Spurs,Goalkeeper,0,£4.00
+Austin,Spurs,Goalkeeper,0,£4.00
+Šarki?,Wolves,Goalkeeper,0,£4.00
+Matthews,Crystal Palace,Goalkeeper,0,£4.00
+Adrián,Liverpool,Goalkeeper,0,£4.00
+Hennessey,Nott'm Forest,Goalkeeper,0,£4.00
+Scherpen,Brighton,Goalkeeper,0,£4.00
+Smith,Wolves,Goalkeeper,0,£4.00
+Randolph,West Ham,Goalkeeper,0,£4.00
+Robles,Leeds,Goalkeeper,0,£4.00
+Smithies,Leicester,Goalkeeper,0,£4.00
+Whitworth,Crystal Palace,Goalkeeper,0,£4.00
+H.Davies,Liverpool,Goalkeeper,0,£4.00
+Kovár,Man Utd,Goalkeeper,0,£4.00
+Turner,Arsenal,Goalkeeper,0,£3.90
+Ortega,Man City,Goalkeeper,0,£3.90
+Carson,Man City,Goalkeeper,0,£3.90
+Iversen,Leicester,Goalkeeper,0,£3.90
+Alexander-Arnold,Liverpool,Defender,24,£7.50
+Cancelo,Man City,Defender,33,£7.10
+Robertson,Liverpool,Defender,16,£6.80
+Van Dijk,Liverpool,Defender,23,£6.50
+James,Chelsea,Defender,23,£6.00
+Dias,Man City,Defender,22,£6.00
+Matip,Liverpool,Defender,2,£5.90
+Laporte,Man City,Defender,0,£5.90
+Chilwell,Chelsea,Defender,22,£5.80
+Periši?,Spurs,Defender,25,£5.60
+Thiago Silva,Chelsea,Defender,19,£5.50
+Koulibaly,Chelsea,Defender,14,£5.50
+Stones,Man City,Defender,16,£5.40
+Alonso,Chelsea,Defender,0,£5.30
+Cucurella,Chelsea,Defender,12,£5.20
+Trippier,Newcastle,Defender,30,£5.20
+Gabriel,Arsenal,Defender,27,£5.10
+Walker,Man City,Defender,22,£5.10
+Zinchenko,Arsenal,Defender,20,£5.10
+Emerson Royal,Spurs,Defender,26,£5.10
+Canós,Brentford,Defender,0,£5.00
+Sarr,Chelsea,Defender,0,£5.00
+Aké,Man City,Defender,15,£5.00
+Telles,Man Utd,Defender,0,£5.00
+Dier,Spurs,Defender,26,£5.00
+Davies,Spurs,Defender,19,£5.00
+Semedo,Wolves,Defender,4,£5.00
+Hickey,Brentford,Defender,9,£5.00
+Akanji,Man City,Defender,0,£5.00
+Tierney,Arsenal,Defender,7,£4.90
+Azpilicueta,Chelsea,Defender,11,£4.90
+Dallas,Leeds,Defender,0,£4.90
+Kristensen,Leeds,Defender,11,£4.90
+Targett,Newcastle,Defender,16,£4.90
+Romero,Spurs,Defender,4,£4.90
+Cresswell,West Ham,Defender,11,£4.90
+Aguerd,West Ham,Defender,0,£4.90
+Saliba,Arsenal,Defender,29,£4.80
+Diego Carlos,Aston Villa,Defender,3,£4.80
+Konaté,Liverpool,Defender,0,£4.80
+Varane,Man Utd,Defender,17,£4.80
+Dawson,West Ham,Defender,0,£4.80
+Coady,Everton,Defender,20,£4.80
+Lenglet,Spurs,Defender,3,£4.80
+Digne,Aston Villa,Defender,5,£4.70
+Cash,Aston Villa,Defender,6,£4.70
+Chalobah,Chelsea,Defender,2,£4.70
+Maguire,Man Utd,Defender,-1,£4.70
+Shaw,Man Utd,Defender,-1,£4.70
+Schär,Newcastle,Defender,27,£4.70
+Dunk,Brighton,Defender,22,£4.60
+Veltman,Brighton,Defender,26,£4.60
+Doherty,Spurs,Defender,1,£4.60
+White,Arsenal,Defender,23,£4.50
+Tavares,Arsenal,Defender,0,£4.50
+Pablo Marí,Arsenal,Defender,0,£4.50
+Kelly,Bournemouth,Defender,23,£4.50
+Ajer,Brentford,Defender,0,£4.50
+Henry,Brentford,Defender,16,£4.50
+Bech,Brentford,Defender,3,£4.50
+Webster,Brighton,Defender,21,£4.50
+Ward,Crystal Palace,Defender,10,£4.50
+Clyne,Crystal Palace,Defender,6,£4.50
+Andersen,Crystal Palace,Defender,19,£4.50
+Mitchell,Crystal Palace,Defender,17,£4.50
+Coleman,Everton,Defender,0,£4.50
+Mykolenko,Everton,Defender,14,£4.50
+Ream,Fulham,Defender,12,£4.50
+Tosin,Fulham,Defender,12,£4.50
+Tete,Fulham,Defender,16,£4.50
+Robinson,Fulham,Defender,10,£4.50
+Ayling,Leeds,Defender,3,£4.50
+Llorente,Leeds,Defender,14,£4.50
+Koch,Leeds,Defender,13,£4.50
+Struijk,Leeds,Defender,19,£4.50
+Firpo,Leeds,Defender,0,£4.50
+Castagne,Leicester,Defender,10,£4.50
+Gomez,Liverpool,Defender,19,£4.50
+Tsimikas,Liverpool,Defender,10,£4.50
+Dalot,Man Utd,Defender,23,£4.50
+Clark,Newcastle,Defender,0,£4.50
+Burn,Newcastle,Defender,18,£4.50
+Cook,Nott'm Forest,Defender,5,£4.50
+McKenna,Nott'm Forest,Defender,7,£4.50
+Laryea,Nott'm Forest,Defender,0,£4.50
+Walker-Peters,Southampton,Defender,15,£4.50
+Perraud,Southampton,Defender,11,£4.50
+Bella-Kotchap,Southampton,Defender,11,£4.50
+R.Sessegnon,Spurs,Defender,15,£4.50
+Ogbonna,West Ham,Defender,2,£4.50
+Zouma,West Ham,Defender,16,£4.50
+Masuaku,West Ham,Defender,0,£4.50
+Kilman,Wolves,Defender,27,£4.50
+Collins,Wolves,Defender,28,£4.50
+Toffolo,Nott'm Forest,Defender,12,£4.50
+Mee,Brentford,Defender,19,£4.50
+Martínez,Man Utd,Defender,14,£4.50
+Colwill,Brighton,Defender,2,£4.50
+Senesi,Bournemouth,Defender,-1,£4.50
+Estupiñán,Brighton,Defender,12,£4.50
+Sergio Gómez,Man City,Defender,2,£4.50
+Kehrer,West Ham,Defender,6,£4.50
+Renan Lodi,Nott'm Forest,Defender,0,£4.50
+Faes,Leicester,Defender,0,£4.50
+Kurzawa,Fulham,Defender,0,£4.50
+Badé,Nott'm Forest,Defender,0,£4.50
+Caleta-Car,Southampton,Defender,0,£4.50
+Chambers,Aston Villa,Defender,3,£4.40
+Hause,Aston Villa,Defender,0,£4.40
+Konsa,Aston Villa,Defender,7,£4.40
+Smith,Bournemouth,Defender,9,£4.40
+Fredericks,Bournemouth,Defender,2,£4.40
+Player,Team,Defender,Points,Cost
+Mepham,Bournemouth,Defender,12,£4.40
+Zemura,Bournemouth,Defender,10,£4.40
+Jansson,Brentford,Defender,9,£4.40
+Roerslev,Brentford,Defender,6,£4.40
+Pinnock,Brentford,Defender,0,£4.40
+Duffy,Fulham,Defender,2,£4.40
+Ampadu,Chelsea,Defender,0,£4.40
+Guéhi,Crystal Palace,Defender,10,£4.40
+Holgate,Everton,Defender,12,£4.40
+Tarkowski,Everton,Defender,15,£4.40
+Bryan,Fulham,Defender,0,£4.40
+Cooper,Leeds,Defender,0,£4.40
+Evans,Leicester,Defender,5,£4.40
+Amartey,Leicester,Defender,5,£4.40
+Fofana,Chelsea,Defender,2,£4.40
+Fernández,Newcastle,Defender,0,£4.40
+Krafth,Newcastle,Defender,1,£4.40
+Lewis,Newcastle,Defender,0,£4.40
+Botman,Newcastle,Defender,17,£4.40
+Worrall,Nott'm Forest,Defender,8,£4.40
+Stephens,Bournemouth,Defender,1,£4.40
+Lyanco,Southampton,Defender,3,£4.40
+Livramento,Southampton,Defender,0,£4.40
+Salisu,Southampton,Defender,5,£4.40
+Sánchez,Spurs,Defender,14,£4.40
+Coufal,West Ham,Defender,13,£4.40
+Diop,Fulham,Defender,1,£4.40
+Johnson,West Ham,Defender,5,£4.40
+Jonny,Wolves,Defender,22,£4.40
+Aït-Nouri,Wolves,Defender,13,£4.40
+Malacia,Man Utd,Defender,19,£4.40
+Niakhaté,Nott'm Forest,Defender,7,£4.40
+Richards,Nott'm Forest,Defender,0,£4.40
+Richards,Crystal Palace,Defender,2,£4.40
+Vinagre,Everton,Defender,2,£4.40
+Mbabu,Fulham,Defender,6,£4.40
+Young,Aston Villa,Defender,2,£4.40
+Hill,Bournemouth,Defender,0,£4.40
+Holding,Arsenal,Defender,2,£4.30
+Mings,Aston Villa,Defender,6,£4.30
+Stacey,Bournemouth,Defender,0,£4.30
+Lamptey,Brighton,Defender,5,£4.30
+Keane,Everton,Defender,1,£4.30
+Mina,Everton,Defender,1,£4.30
+Godfrey,Everton,Defender,1,£4.30
+Ricardo,Leicester,Defender,0,£4.30
+Söyüncü,Leicester,Defender,0,£4.30
+Justin,Leicester,Defender,8,£4.30
+Thomas,Leicester,Defender,-1,£4.30
+Lindelöf,Man Utd,Defender,0,£4.30
+Wan-Bissaka,Man Utd,Defender,1,£4.30
+Ritchie,Newcastle,Defender,1,£4.30
+Lascelles,Newcastle,Defender,0,£4.30
+Manquillo,Newcastle,Defender,0,£4.30
+Mbe Soh,Nott'm Forest,Defender,0,£4.30
+Biancone,Nott'm Forest,Defender,1,£4.30
+Bednarek,Aston Villa,Defender,1,£4.30
+Boly,Nott'm Forest,Defender,0,£4.30
+Augustinsson,Aston Villa,Defender,0,£4.30
+Cédric,Arsenal,Defender,0,£4.20
+Tomiyasu,Arsenal,Defender,4,£4.20
+Reguilón,Spurs,Defender,0,£4.20
+Spence,Spurs,Defender,1,£4.20
+Patterson,Everton,Defender,14,£4.10
+N.Williams,Nott'm Forest,Defender,12,£4.10
+Guilbert,Aston Villa,Defender,0,£4.00
+Goode,Brentford,Defender,0,£4.00
+Thompson,Brentford,Defender,0,£4.00
+Roberts,Brighton,Defender,0,£4.00
+Branthwaite,Everton,Defender,0,£4.00
+Nkounkou,Everton,Defender,0,£4.00
+Bertrand,Leicester,Defender,0,£4.00
+Brunt,Leicester,Defender,0,£4.00
+Bailly,Man Utd,Defender,0,£4.00
+Dräger,Nott'm Forest,Defender,0,£4.00
+Panzo,Nott'm Forest,Defender,0,£4.00
+Valery,Southampton,Defender,0,£4.00
+Rodon,Spurs,Defender,0,£4.00
+Toti,Wolves,Defender,0,£4.00
+R.Williams,Liverpool,Defender,0,£4.00
+Davies,Liverpool,Defender,0,£4.00
+Van den Berg,Liverpool,Defender,0,£4.00
+Phillips,Liverpool,Defender,2,£4.00
+Kesler Hayden,Aston Villa,Defender,0,£4.00
+Stevens,Brentford,Defender,0,£4.00
+Clarke,Brighton,Defender,0,£4.00
+Van Hecke,Brighton,Defender,1,£4.00
+Emerson,West Ham,Defender,2,£4.00
+Drameh,Leeds,Defender,1,£4.00
+Ashby,West Ham,Defender,0,£4.00
+Bueno,Wolves,Defender,0,£4.00
+Chambers,Liverpool,Defender,0,£4.00
+Lewis,Man City,Defender,2,£4.00
+Zanka,Brentford,Defender,5,£4.00
+Bevan,Bournemouth,Defender,1,£4.00
+Welch,Everton,Defender,0,£4.00
+Larios,Southampton,Defender,0,£4.00
+Kenedy,Chelsea,Defender,0,£3.90
+Tomkins,Crystal Palace,Defender,0,£3.90
+Ferguson,Crystal Palace,Defender,0,£3.90
+Kongolo,Fulham,Defender,0,£3.90
+Hjelde,Leeds,Defender,0,£3.90
+Vestergaard,Leicester,Defender,0,£3.90
+Ramsay,Liverpool,Defender,0,£3.90
+Mbete,Man City,Defender,0,£3.90
+Wilson-Esbrand,Man City,Defender,0,£3.90
+Jones,Man Utd,Defender,0,£3.90
+B.Williams,Man Utd,Defender,0,£3.90
+Dummett,Newcastle,Defender,0,£3.90
+Tanganga,Spurs,Defender,0,£3.90
+Mosquera,Wolves,Defender,0,£3.90
+Salah,Liverpool,Midfielder,38,£13.00
+De Bruyne,Man City,Midfielder,35,£12.20
+Son,Spurs,Midfielder,17,£11.70
+Sterling,Chelsea,Midfielder,34,£10.00
+Fernandes,Man Utd,Midfielder,22,£9.80
+Luis Díaz,Liverpool,Midfielder,32,£8.20
+Kulusevski,Spurs,Midfielder,27,£8.10
+Bowen,West Ham,Midfielder,13,£8.10
+Foden,Man City,Midfielder,24,£8.00
+Maddison,Leicester,Midfielder,22,£7.90
+Saka,Arsenal,Midfielder,28,£7.80
+Mount,Chelsea,Midfielder,14,£7.60
+Gündogan,Man City,Midfielder,30,£7.60
+Mahrez,Man City,Midfielder,11,£7.60
+Antony,Man Utd,Midfielder,6,£7.50
+Sancho,Man Utd,Midfielder,28,£7.30
+Zaha,Crystal Palace,Midfielder,31,£7.20
+Raphinha,Leeds,Midfielder,0,£7.00
+Bernardo,Man City,Midfielder,33,£7.00
+Barnes,Leicester,Midfielder,12,£6.90
+Grealish,Man City,Midfielder,4,£6.80
+Coutinho,Aston Villa,Midfielder,8,£6.70
+Ødegaard,Arsenal,Midfielder,34,£6.50
+Martinelli,Arsenal,Midfielder,36,£6.50
+Trossard,Brighton,Midfielder,32,£6.50
+Rashford,Man Utd,Midfielder,40,£6.50
+Ward-Prowse,Southampton,Midfielder,23,£6.50
+Sinisterra,Leeds,Midfielder,18,£6.50
+Saint-Maximin,Newcastle,Midfielder,27,£6.40
+Rodrigo,Leeds,Midfielder,38,£6.30
+Tielemans,Leicester,Midfielder,16,£6.30
+Eriksen,Man Utd,Midfielder,16,£6.30
+Harrison,Leeds,Midfielder,29,£6.20
+Groß,Brighton,Midfielder,42,£6.00
+Jorginho,Chelsea,Midfielder,20,£6.00
+James,Fulham,Midfielder,7,£6.00
+Joelinton,Newcastle,Midfielder,16,£6.00
+Guedes,Wolves,Midfielder,13,£6.00
+Paquetá,West Ham,Midfielder,2,£6.00
+Buendía,Aston Villa,Midfielder,15,£5.90
+Rodri,Man City,Midfielder,19,£5.90
+Cornet,West Ham,Midfielder,3,£5.90
+Wilson,Fulham,Midfielder,0,£5.80
+Lucas Moura,Spurs,Midfielder,2,£5.80
+Lingard,Nott'm Forest,Midfielder,15,£5.80
+Smith Rowe,Arsenal,Midfielder,4,£5.70
+Fábio Vieira,Arsenal,Midfielder,1,£5.70
+Ziyech,Chelsea,Midfielder,3,£5.70
+Pulisic,Chelsea,Midfielder,5,£5.70
+Gallagher,Chelsea,Midfielder,3,£5.70
+Bruno Guimarães,Newcastle,Midfielder,7,£5.70
+Benrahma,West Ham,Midfielder,9,£5.70
+Hwang,Wolves,Midfielder,9,£5.70
+Mac Allister,Brighton,Midfielder,39,£5.60
+Nørgaard,Brentford,Midfielder,15,£5.50
+Janelt,Brentford,Midfielder,20,£5.50
+Eze,Crystal Palace,Midfielder,22,£5.50
+Olise,Crystal Palace,Midfielder,7,£5.50
+Townsend,Everton,Midfielder,0,£5.50
+Iwobi,Everton,Midfielder,15,£5.50
+Gray,Everton,Midfielder,20,£5.50
+Gordon,Everton,Midfielder,22,£5.50
+Kebano,Fulham,Midfielder,13,£5.50
+De Cordova-Reid,Fulham,Midfielder,16,£5.50
+Aaronson,Leeds,Midfielder,19,£5.50
+Højbjerg,Spurs,Midfielder,28,£5.50
+Bergwijn,Spurs,Midfielder,0,£5.50
+Neves,Wolves,Midfielder,22,£5.50
+Podence,Wolves,Midfielder,26,£5.50
+Adama,Wolves,Midfielder,4,£5.50
+Gibbs-White,Nott'm Forest,Midfielder,13,£5.50
+Willian,Fulham,Midfielder,1,£5.50
+Christie,Bournemouth,Midfielder,10,£5.40
+Wissa,Brentford,Midfielder,22,£5.40
+Ayew,Crystal Palace,Midfielder,12,£5.40
+Fabinho,Liverpool,Midfielder,11,£5.40
+Carvalho,Liverpool,Midfielder,19,£5.40
+Bentancur,Spurs,Midfielder,10,£5.40
+Soucek,West Ham,Midfielder,21,£5.40
+Fornals,West Ham,Midfielder,21,£5.40
+Aribo,Southampton,Midfielder,15,£5.40
+Pépé,Arsenal,Midfielder,0,£5.30
+McGinn,Aston Villa,Midfielder,10,£5.30
+Brooks,Bournemouth,Midfielder,0,£5.30
+Lowe,Bournemouth,Midfielder,1,£5.30
+Billing,Bournemouth,Midfielder,16,£5.30
+Anthony,Bournemouth,Midfielder,11,£5.30
+Mwepu,Brighton,Midfielder,11,£5.30
+Hudson-Odoi,Chelsea,Midfielder,0,£5.30
+Dele,Everton,Midfielder,2,£5.30
+A.Doucouré,Everton,Midfielder,3,£5.30
+Henderson,Liverpool,Midfielder,9,£5.30
+Fraser,Newcastle,Midfielder,6,£5.30
+Redmond,Southampton,Midfielder,1,£5.30
+Elyounoussi,Southampton,Midfielder,8,£5.30
+Lanzini,West Ham,Midfielder,3,£5.30
+Lewis-Potter,Brentford,Midfielder,9,£5.30
+Damsgaard,Brentford,Midfielder,2,£5.30
+Ramsey,Aston Villa,Midfielder,11,£5.20
+Thiago,Liverpool,Midfielder,1,£5.20
+Fred,Man Utd,Midfielder,5,£5.20
+Van de Beek,Man Utd,Midfielder,3,£5.20
+Neto,Wolves,Midfielder,15,£5.20
+McNeil,Everton,Midfielder,10,£5.20
+Jensen,Brentford,Midfielder,25,£5.10
+Xhaka,Arsenal,Midfielder,26,£5.00
+Lerma,Bournemouth,Midfielder,19,£5.00
+March,Brighton,Midfielder,20,£5.00
+Caicedo,Brighton,Midfielder,20,£5.00
+Loftus-Cheek,Chelsea,Midfielder,9,£5.00
+Palhinha,Fulham,Midfielder,14,£5.00
+Roberts,Leeds,Midfielder,0,£5.00
+Dewsbury-Hall,Leicester,Midfielder,18,£5.00
+Elliott,Liverpool,Midfielder,18,£5.00
+Almirón,Newcastle,Midfielder,20,£5.00
+Yates,Nott'm Forest,Midfielder,10,£5.00
+Xande Silva,Nott'm Forest,Midfielder,0,£5.00
+Tella,Southampton,Midfielder,0,£5.00
+Djenepo,Southampton,Midfielder,13,£5.00
+Vlasic,West Ham,Midfielder,0,£5.00
+Chiquinho,Wolves,Midfielder,0,£5.00
+Adams,Leeds,Midfielder,11,£5.00
+C.Doucouré,Crystal Palace,Midfielder,17,£5.00
+O'Brien,Nott'm Forest,Midfielder,9,£5.00
+Bryan,Spurs,Midfielder,0,£5.00
+Freuler,Nott'm Forest,Midfielder,3,£5.00
+Matheus,Wolves,Midfielder,16,£5.00
+Casemiro,Man Utd,Midfielder,3,£5.00
+Gueye,Everton,Midfielder,1,£5.00
+Zakaria,Chelsea,Midfielder,0,£5.00
+Arthur,Liverpool,Midfielder,0,£5.00
+Edozie,Southampton,Midfielder,1,£5.00
+Nelson,Arsenal,Midfielder,0,£4.90
+Traoré,Aston Villa,Midfielder,0,£4.90
+Kamara,Aston Villa,Midfielder,11,£4.90
+Player,Team,Midfielder,Points,Cost
+Cook,Bournemouth,Midfielder,15,£4.90
+Ghoddos,Brentford,Midfielder,2,£4.90
+Onyeka,Brentford,Midfielder,3,£4.90
+Lallana,Brighton,Midfielder,8,£4.90
+Mitoma,Brighton,Midfielder,4,£4.90
+Barkley,Chelsea,Midfielder,0,£4.90
+Kovacic,Chelsea,Midfielder,4,£4.90
+Schlupp,Crystal Palace,Midfielder,13,£4.90
+Hughes,Crystal Palace,Midfielder,4,£4.90
+Davies,Everton,Midfielder,6,£4.90
+Roca,Leeds,Midfielder,17,£4.90
+Pérez,Leicester,Midfielder,7,£4.90
+Ndidi,Leicester,Midfielder,11,£4.90
+Chamberlain,Liverpool,Midfielder,0,£4.90
+Jones,Liverpool,Midfielder,0,£4.90
+McTominay,Man Utd,Midfielder,9,£4.90
+Elanga,Man Utd,Midfielder,10,£4.90
+Shelvey,Newcastle,Midfielder,0,£4.90
+Willock,Newcastle,Midfielder,15,£4.90
+Lolley,Nott'm Forest,Midfielder,0,£4.90
+Mighten,Nott'm Forest,Midfielder,1,£4.90
+Walcott,Southampton,Midfielder,0,£4.90
+S.Armstrong,Southampton,Midfielder,6,£4.90
+Rice,West Ham,Midfielder,18,£4.90
+Moutinho,Wolves,Midfielder,8,£4.90
+Rothwell,Bournemouth,Midfielder,0,£4.90
+Tavernier,Bournemouth,Midfielder,14,£4.90
+Mangala,Nott'm Forest,Midfielder,5,£4.90
+Praet,Leicester,Midfielder,1,£4.90
+Solomon,Fulham,Midfielder,1,£4.90
+Onana,Everton,Midfielder,11,£4.90
+Partey,Arsenal,Midfielder,8,£4.80
+Maitland-Niles,Southampton,Midfielder,1,£4.80
+Marquinhos,Arsenal,Midfielder,0,£4.80
+Douglas Luiz,Aston Villa,Midfielder,13,£4.80
+El Ghazi,Aston Villa,Midfielder,0,£4.80
+Stanislas,Bournemouth,Midfielder,2,£4.80
+Marcondes,Bournemouth,Midfielder,1,£4.80
+Dembélé,Bournemouth,Midfielder,0,£4.80
+Kanté,Chelsea,Midfielder,5,£4.80
+McArthur,Crystal Palace,Midfielder,0,£4.80
+Allan,Everton,Midfielder,0,£4.80
+Cairney,Fulham,Midfielder,6,£4.80
+Knockaert,Fulham,Midfielder,0,£4.80
+Cavaleiro,Fulham,Midfielder,0,£4.80
+Klich,Leeds,Midfielder,5,£4.80
+Albrighton,Leicester,Midfielder,0,£4.80
+Keita,Liverpool,Midfielder,0,£4.80
+Phillips,Man City,Midfielder,1,£4.80
+Romeu,Southampton,Midfielder,2,£4.80
+Bissouma,Spurs,Midfielder,4,£4.80
+Dendoncker,Aston Villa,Midfielder,7,£4.80
+Bailey,Aston Villa,Midfielder,19,£4.70
+Dasilva,Brentford,Midfielder,19,£4.60
+Andreas,Fulham,Midfielder,23,£4.60
+Torreira,Arsenal,Midfielder,0,£4.50
+Iroegbunam,Aston Villa,Midfielder,0,£4.50
+Philogene-Bidace,Aston Villa,Midfielder,0,£4.50
+Pearson,Bournemouth,Midfielder,6,£4.50
+Baptiste,Brentford,Midfielder,10,£4.50
+Bidstrup,Brentford,Midfielder,0,£4.50
+Sarmiento,Brighton,Midfielder,0,£4.50
+Richards,Brighton,Midfielder,0,£4.50
+Koz?owski,Brighton,Midfielder,0,£4.50
+Rak-Sakyi,Crystal Palace,Midfielder,0,£4.50
+André Gomes,Everton,Midfielder,0,£4.50
+Gbamin,Everton,Midfielder,0,£4.50
+Chalobah,Fulham,Midfielder,2,£4.50
+Reed,Fulham,Midfielder,11,£4.50
+Forshaw,Leeds,Midfielder,3,£4.50
+Shackleton,Leeds,Midfielder,0,£4.50
+Bate,Leeds,Midfielder,0,£4.50
+Choudhury,Leicester,Midfielder,0,£4.50
+Milner,Liverpool,Midfielder,11,£4.50
+McAtee,Man City,Midfielder,0,£4.50
+Lavia,Southampton,Midfielder,13,£4.50
+Hendrick,Newcastle,Midfielder,0,£4.50
+Ojeda,Nott'm Forest,Midfielder,0,£4.50
+Smallbone,Southampton,Midfielder,0,£4.50
+Harris,Fulham,Midfielder,0,£4.50
+Anderson,Newcastle,Midfielder,3,£4.50
+Mills,Everton,Midfielder,0,£4.50
+Bajcetic,Liverpool,Midfielder,1,£4.50
+Gray,Leeds,Midfielder,0,£4.50
+Garner,Everton,Midfielder,0,£4.50
+Kouyaté,Nott'm Forest,Midfielder,12,£4.50
+Clark,Liverpool,Midfielder,1,£4.50
+Gomes,Man City,Midfielder,0,£4.50
+Knight,Man City,Midfielder,0,£4.50
+Rodney,Crystal Palace,Midfielder,0,£4.50
+Phillips,Crystal Palace,Midfielder,0,£4.50
+Vale,Chelsea,Midfielder,0,£4.50
+Smith,Arsenal,Midfielder,0,£4.50
+Sambi,Arsenal,Midfielder,6,£4.40
+Sanson,Aston Villa,Midfielder,0,£4.40
+Nakamba,Aston Villa,Midfielder,0,£4.40
+Alzate,Brighton,Midfielder,0,£4.40
+Moder,Brighton,Midfielder,0,£4.40
+Gilmour,Brighton,Midfielder,1,£4.40
+Milivojevic,Crystal Palace,Midfielder,4,£4.40
+Riedewald,Crystal Palace,Midfielder,0,£4.40
+Ebiowei,Crystal Palace,Midfielder,1,£4.40
+Onomah,Fulham,Midfielder,0,£4.40
+Summerville,Leeds,Midfielder,2,£4.40
+Gyabi,Leeds,Midfielder,0,£4.40
+Mendy,Leicester,Midfielder,0,£4.40
+Soumaré,Leicester,Midfielder,5,£4.40
+Palmer,Man City,Midfielder,3,£4.40
+Pellistri,Man Utd,Midfielder,0,£4.40
+Murphy,Newcastle,Midfielder,6,£4.40
+S.Longstaff,Newcastle,Midfielder,13,£4.40
+Arter,Nott'm Forest,Midfielder,0,£4.40
+Colback,Nott'm Forest,Midfielder,4,£4.40
+Cafú,Nott'm Forest,Midfielder,1,£4.40
+Diallo,Southampton,Midfielder,3,£4.40
+Winks,Spurs,Midfielder,0,£4.40
+Skipp,Spurs,Midfielder,0,£4.40
+White,Spurs,Midfielder,0,£4.40
+Sarr,Spurs,Midfielder,0,£4.40
+Devine,Spurs,Midfielder,0,£4.40
+Cundle,Wolves,Midfielder,0,£4.40
+Downes,West Ham,Midfielder,1,£4.40
+Francois,Fulham,Midfielder,1,£4.40
+Amad,Man Utd,Midfielder,0,£4.40
+Hammond,Nott'm Forest,Midfielder,0,£4.40
+Coventry,West Ham,Midfielder,1,£4.40
+Warrington,Everton,Midfielder,0,£4.40
+Hodge,Wolves,Midfielder,0,£4.40
+Ronan,Wolves,Midfielder,0,£4.40
+Campbell,Wolves,Midfielder,1,£4.40
+Garnacho,Man Utd,Midfielder,1,£4.40
+Oko-Flex,West Ham,Midfielder,0,£4.40
+Elneny,Arsenal,Midfielder,2,£4.30
+Chukwuemeka,Chelsea,Midfielder,0,£4.30
+Iqbal,Man Utd,Midfielder,0,£4.30
+Haaland,Man City,Forward,67,£12.00
+Kane,Spurs,Forward,40,£11.40
+Ronaldo,Man Utd,Forward,7,£10.20
+Vardy,Leicester,Forward,17,£9.30
+Aubameyang,Chelsea,Forward,0,£9.00
+Diogo Jota,Liverpool,Forward,1,£8.90
+Darwin,Liverpool,Forward,9,£8.90
+Richarlison,Spurs,Forward,11,£8.50
+Jesus,Arsenal,Forward,33,£8.10
+Firmino,Liverpool,Forward,35,£8.00
+Werner,Chelsea,Forward,0,£7.90
+Calvert-Lewin,Everton,Forward,0,£7.90
+Havertz,Chelsea,Forward,14,£7.70
+Watkins,Aston Villa,Forward,24,£7.30
+Bamford,Leeds,Forward,8,£7.30
+Toney,Brentford,Forward,45,£7.20
+Wilson,Newcastle,Forward,14,£7.20
+Antonio,West Ham,Forward,16,£7.20
+Isak,Newcastle,Forward,9,£7.00
+Martial,Man Utd,Forward,4,£6.90
+Jiménez,Wolves,Forward,5,£6.90
+Mitrovi?,Fulham,Forward,39,£6.80
+Scamacca,West Ham,Forward,5,£6.80
+Ings,Aston Villa,Forward,11,£6.70
+Nketiah,Arsenal,Forward,6,£6.60
+Welbeck,Brighton,Forward,22,£6.50
+Adams,Southampton,Forward,20,£6.40
+Maupay,Everton,Forward,2,£6.20
+Iheanacho,Leicester,Forward,13,£6.20
+Álvarez,Man City,Forward,15,£6.20
+Mbeumo,Brentford,Forward,22,£6.00
+Johnson,Nott'm Forest,Forward,21,£5.90
+Dennis,Nott'm Forest,Forward,2,£5.90
+Awoniyi,Nott'm Forest,Forward,14,£5.80
+Solanke,Bournemouth,Forward,17,£5.70
+Player,Team,Forward,Points,Cost
+Daka,Leicester,Forward,14,£5.70
+Wood,Newcastle,Forward,7,£5.70
+Moore,Bournemouth,Forward,14,£5.50
+Benteke,Crystal Palace,Forward,0,£5.50
+A.Armstrong,Southampton,Forward,20,£5.50
+Fabio Silva,Wolves,Forward,0,£5.50
+Mara,Southampton,Forward,7,£5.50
+Kalajdži?,Wolves,Forward,1,£5.50
+Vinícius,Fulham,Forward,1,£5.50
+Davis,Aston Villa,Forward,0,£5.40
+Muniz,Fulham,Forward,0,£5.40
+Broja,Chelsea,Forward,4,£5.30
+Edouard,Crystal Palace,Forward,10,£5.30
+Mateta,Crystal Palace,Forward,9,£5.30
+Gelhardt,Leeds,Forward,5,£5.30
+Undav,Brighton,Forward,3,£5.20
+Rondón,Everton,Forward,3,£5.00
+Gnonto,Leeds,Forward,0,£5.00
+Enciso,Brighton,Forward,0,£4.80
+Surridge,Nott'm Forest,Forward,3,£4.80
+Forss,Brentford,Forward,0,£4.50
+Stansfield,Fulham,Forward,7,£4.50
+Gayle,Newcastle,Forward,0,£4.50
+Scarlett,Spurs,Forward,0,£4.50
+Parrott,Spurs,Forward,0,£4.50
+Plange,Crystal Palace,Forward,0,£4.50
+Dervi?o?lu,Brentford,Forward,4,£4.50
+Ablade,Fulham,Forward,0,£4.50
+Ferguson,Brighton,Forward,0,£4.50
+Saydee,Bournemouth,Forward,0,£4.50
+Archer,Aston Villa,Forward,2,£4.40
+Greenwood,Leeds,Forward,3,£4.40
+Delap,Man City,Forward,0,£4.40
+Taylor,Nott'm Forest,Forward,0,£4.40
